@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&width=1000&height=50&text=Cyber%20Attack%20and%20Defense%20Simulation%20Environment%20Based%20on%20Reinforcement%20Learning&fontColor=000000&fontSize=20)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqjatjr132&count_bg=%23F8D6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![qjatjr132's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjatjr132&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
-
 ## DEV's log 💻
 ### 1. 프로젝트
 - **프로젝트 이름**: 여기에 프로젝트에 대한 간단한 설명과 목표를 기술합니다.
