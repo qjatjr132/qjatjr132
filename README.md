@@ -1,14 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=FFB6C1&text=Cyber%20Attack%20and%20Defense%20Simulator&textColor=FFFFFF&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=transparent&width=1000&height=50&text=Cyber%20Attack%20and%20Defense%20Simulation%20Environment%20Based%20on%20Reinforcement%20Learning&fontColor=000000&fontSize=20)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqjatjr132&count_bg=%23F8D6FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![qjatjr132's GitHub stats](https://github-readme-stats.vercel.app/api?username=qjatjr132&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
 
-## 💻 DEV's log 💻
+## DEV's log 💻
+### 1. 프로젝트
+- **프로젝트 이름**: 여기에 프로젝트에 대한 간단한 설명과 목표를 기술합니다.
+- **기술 스택**: 사용된 기술과 도구들을 나열합니다.
+- **결과물**: 프로젝트 결과물에 대한 설명과, 가능하다면 결과물을 볼 수 있는 링크를 제공합니다.
 
-## 📞 Contact 📞
+### 2. 관련 코드
+- **코드 설명**: 프로젝트에서 중요한 코드 스니펫을 간략하게 설명합니다.
+- **GitHub 링크**: 코드의 전체 버전을 볼 수 있는 GitHub 링크를 제공합니다.
 
-## 🔨 Once I've used 🔨
+### 3. 관련 논문
+- **논문 제목**: 연구한 주제에 대한 논문을 소개합니다.
+- **논문 요약**: 논문의 핵심 내용과 주요 발견 사항을 요약합니다.
+- **논문 링크**: 논문을 볼 수 있는 링크를 제공합니다.
+
+## Contact 📞
+- **Phone:** +82-10-3634-7910
+## Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
