@@ -38,7 +38,7 @@
 </div>
 
 ## Experiences
-### 자가진화형 AI 기반 사이버공방 핵심원천기술 개발 with ETRI, COONTEC, AlpineLab 💻
+### 자가진화형 AI 기반 사이버공방 핵심원천기술 개발 with ETRI, COONTEC, AlpineLab (2022.04.01 ~ 2025.03.01) 💻
 
 ### 강화학습 기반 사이버공방 시뮬레이션 환경
 
