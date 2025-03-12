@@ -37,11 +37,13 @@
 
 - 다양한 강화학습 모델 성능 비교 및 평가
 
-PPT: https://github.com/qjatjr132/qjatjr132/blob/main/Network%20Attack%20Simulation/NetworkAttackSimulation%EC%A0%95%EB%A6%AC.pptx
+#### Reference
 
-Code: https://github.com/qjatjr132/NetworkAttackSimulation.git
+[Network Attack Simulation PPT](https://github.com/qjatjr132/qjatjr132/blob/main/Network%20Attack%20Simulation/NetworkAttackSimulation%EC%A0%95%EB%A6%AC.pptx)
 
-MutliAgent Code: https://github.com/qjatjr132/NetworkAttackSimulation_MultiAgent_StepbyStep.git
+[Network Attack Simulation Code](https://github.com/qjatjr132/NetworkAttackSimulation.git)
+
+[Network Attack Simulation MultiAgent Code](https://github.com/qjatjr132/NetworkAttackSimulation_MultiAgent_StepbyStep.git)
 
 ### 2. Cyber Battle Simulation
 - MITRE ATT&CK 기반 공격 시나리오 구현 및 방어 에이전트 개발
@@ -50,9 +52,11 @@ MutliAgent Code: https://github.com/qjatjr132/NetworkAttackSimulation_MultiAgent
 
 - 다양한 강화학습 모델 성능 비교 및 평가
 
-PPT: https://github.com/qjatjr132/qjatjr132/blob/main/Cyber%20Battle%20Simulation/CyberBattleSimulation%EC%A0%95%EB%A6%AC.pptx
+#### Reference
 
-Code: https://github.com/qjatjr132/CyberBattleSimulation.git
+[Cyber Battle Simulation PPT](https://github.com/qjatjr132/qjatjr132/blob/main/Cyber%20Battle%20Simulation/CyberBattleSimulation%EC%A0%95%EB%A6%AC.pptx)
+
+[Cyber Battle Simulation Code](https://github.com/qjatjr132/CyberBattleSimulation.git)
 
 ### 소프트웨어
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
