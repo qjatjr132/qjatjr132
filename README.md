@@ -48,7 +48,7 @@ Code:
 
 - 다양한 강화학습 모델 성능 비교 및 평가
 
-PPT: 
+PPT: https://github.com/qjatjr132/qjatjr132/blob/main/CyberBattleSimulation%EC%A0%95%EB%A6%AC.pptx
 
 Code:
 
