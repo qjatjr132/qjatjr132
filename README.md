@@ -1,4 +1,4 @@
-# Bum Sok Kim
+# Kim Bum Sok
 
 ![Image](https://github.com/user-attachments/assets/e23f3a74-1a2b-49a5-b7b2-b74ef0c635b3)
 
