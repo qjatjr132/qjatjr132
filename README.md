@@ -1,5 +1,7 @@
 # Bum Sok Kim
 
+![Image](https://github.com/user-attachments/assets/e23f3a74-1a2b-49a5-b7b2-b74ef0c635b3)
+
 ## 개인정보
 ### 연락처
 - **전화번호:** +82-10-3634-7910
