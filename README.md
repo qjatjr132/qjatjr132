@@ -37,7 +37,7 @@
 
 - 다양한 강화학습 모델 성능 비교 및 평가
 
-PPT: https://github.com/qjatjr132/qjatjr132/blob/main/NetworkAttackSimulation%EC%A0%95%EB%A6%AC.pptx
+PPT: https://github.com/qjatjr132/qjatjr132/blob/main/Network%20Attack%20Simulation/NetworkAttackSimulation%EC%A0%95%EB%A6%AC.pptx
 
 Code: https://github.com/qjatjr132/NetworkAttackSimulation.git
 
