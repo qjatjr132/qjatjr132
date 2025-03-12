@@ -37,7 +37,7 @@
 
 - 다양한 강화학습 모델 성능 비교 및 평가
 
-PPT: 
+PPT: [Download my PPT](./path/to/my_presentation.pptx)
 
 Code:
 
