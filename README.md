@@ -50,7 +50,7 @@ Code: https://github.com/qjatjr132/NetworkAttackSimulation.git
 
 PPT: https://github.com/qjatjr132/qjatjr132/blob/main/CyberBattleSimulation%EC%A0%95%EB%A6%AC.pptx
 
-Code: https://github.com/qjatjr132/cyberbattlesim.git
+Code: https://github.com/qjatjr132/CyberBattleSimulation.git
 
 ### 소프트웨어
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
