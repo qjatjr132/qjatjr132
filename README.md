@@ -1,4 +1,4 @@
-# Bum Sok Kim, Software Engineer
+# Bum Sok Kim
 
 ## 개인정보
 ### 연락처
