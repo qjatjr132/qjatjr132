@@ -43,7 +43,7 @@
 
 [Network Attack Simulation Code](https://github.com/qjatjr132/NetworkAttackSimulation.git)
 
-[Network Attack Simulation MultiAgent Code](https://github.com/qjatjr132/NetworkAttackSimulation_MultiAgent_StepbyStep.git)
+Network Attack Simulation MultiAgent Code: 비공개
 
 ### 2. Cyber Battle Simulation
 - MITRE ATT&CK 기반 공격 시나리오 구현 및 방어 에이전트 개발
